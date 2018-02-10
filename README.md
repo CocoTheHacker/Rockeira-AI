@@ -10,7 +10,10 @@ All requirements are in [requirements.txt](https://github.com/MGMAdvance/Rockeir
 * [Discord.Py](https://github.com/Rapptz/discord.py)
 
 ## How to use?
-* Insert your [token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) on the last line of `rock.py`;
+* Insert your [token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) on the last line of `rock.py` :
+```python
+client.run('YOUR TOKEN')
+```
 * Add your bot in your server and run `rock.py` in your bash.
 
 ## Disclaimer
