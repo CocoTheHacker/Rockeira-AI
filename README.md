@@ -1,5 +1,5 @@
 # Rockeira-AI
-
+[![GitHub license](https://img.shields.io/github/license/MGMAdvance/Rockeira-AI.svg?style=flat-square)](https://github.com/MGMAdvance/Rockeira-AI/blob/master/LICENSE) [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg?style=flat-square)]() [![Rockeira-ai](https://img.shields.io/badge/rockeira--ai-online-brightgreen.svg?style=flat-square)](https://goo.gl/jdEoHo)
 ## What is this?
 [Rockeira](https://goo.gl/jdEoHo) is a [bot for Discord](https://discordapp.com/developers/docs/intro) using machine learning ([ChatterBot](http://chatterbot.readthedocs.io/en/stable/)) to learn how to interact with the user.
 
